@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
+
+
+.table_head{
+    display: flex;
+    padding: 15px 0 30px 0 ;
+    color: #a88beb;
+    font-size: 8vw;
+    background-color: aliceblue;
+  }
+
+.table_body{
+  background: rgba(236, 5, 198, 0.1);
+  margin: auto;
+}
+
+h1{
+    font-family: 'zen tokyo zoo';
+    margin: auto;    
+  }
+
+h1 span{
+    font-weight: 800;
+    font-size: 9vw;
+
+}
+
+.tableH{
+
+    background-image: linear-gradient(315deg, #f8ceec 0%, #a88beb 74%);
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 15px 5px rgba(58, 121, 163, 0.5);
+    color: white;
+    
+}
+
+td:hover{
+  background-color: rgba(255, 0, 221, 0.24);
+}
